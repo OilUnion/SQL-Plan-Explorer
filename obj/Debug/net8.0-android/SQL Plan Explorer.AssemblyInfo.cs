@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQL Plan Explorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+71a6bfc6adb60b17b8d3b9da00952bcc62980e0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQL Plan Explorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQL Plan Explorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

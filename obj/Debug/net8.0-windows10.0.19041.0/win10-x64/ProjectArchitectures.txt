@@ -1,0 +1,1 @@
+C:\GitHub\SQL Plan Explorer\SQL Plan Explorer.csproj;x64
